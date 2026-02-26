@@ -1,0 +1,151 @@
+﻿ID,AI,Binary,Multi,Metin,Aciklama,Model_Durum,Model_Tur
+1,IFC,Safsata,False Cause,Arabanın altında kedi varken motor çalışmıyor; kediler bozuyor.,Zamansal ardışıklık nedensellik sanılmıştır.,Geçerli,False Cause
+2,IFC,Safsata,False Cause,Reklamdan sonra satışlar arttı; tek sebep reklamdır.,Karmaşık diğer nedenler göz ardı edilmiştir.,Geçerli,False Cause
+3,IFC,Safsata,False Cause,Nicholas Cage film çektikçe havuzda boğulmalar artıyor.,İstatistiksel bir tesadüf nedensellik sanılmıştır.,Safsata,False Cause
+4,IFC,Safsata,False Cause,Horoz öttüğü için güneş doğuyor; ötmezse karanlık olur.,Etki ve tepki arasındaki ilişki ters çevrilmiştir.,Safsata,False Cause
+5,IFC,Safsata,False Cause,Ne zaman bu uğurlu çorabı giymezsem maç kaybediyoruz.,Batıl inanç temelli hatalı bir bağ kurulmuştur.,Geçerli,False Cause
+6,IFC,Geçerli,False Cause,Soğuk havalarda akü voltajı düştüğü için motor çalışmıyor.,Fiziksel ve doğrulanabilir bir neden sunulmuştur.,Geçerli,False Cause
+7,IFC,Geçerli,False Cause,Rakip firma çekildiği için satışlarımız bu ay artış gösterdi.,Somut bir piyasa değişkeni tanımlanmıştır.,Geçerli,False Cause
+8,IFC,Geçerli,False Cause,Hava ısındığı için hem dondurma satışı hem yüzme artıyor.,Her iki durumu da açıklayan üçüncü değişken (ısı) vardır.,Geçerli,False Cause
+9,IFC,Geçerli,False Cause,"Dünyanın dönüşü, güneşin doğup batmasına neden olur.",Astronomik ve nedensel bir mekanizma açıklanmıştır.,Geçerli,False Cause
+10,IFC,Geçerli,False Cause,"Sigara içmek, akciğer kanseri riskini istatistiksel olarak artırır.",Klinik ve tekrarlanabilir çalışmalarla kanıtlanmıştır.,Geçerli,False Cause
+11,IFC,Safsata,Appeal to Authority,"Ünlü bir film yıldızı bu diyeti öneriyor, o halde sağlıklıdır.","Otorite, uzmanlık alanı dışında referans verilmiştir.",Safsata,Appeal to Authority
+12,IFC,Safsata,Appeal to Authority,"Celal Şengör bir profesör, o halde siyasi görüşü doğrudur.",Akademik unvan her konuda yanılmazlık sağlamaz.,Geçerli,Appeal to Authority
+13,IFC,Safsata,Appeal to Authority,"""Uzmanlara göre"" bu içecek ömrü 10 yıl uzatmaktadır.",Belirsiz ve tanımlanamayan bir otoriteye dayanılmıştır.,Geçerli,Appeal to Authority
+14,IFC,Safsata,Appeal to Authority,Nobel fizikçisi ruhların varlığını matematiksel olarak kanıtladı.,Metafizik konular ampirik fizik uzmanlığının dışındadır.,Safsata,Appeal to Authority
+15,IFC,Safsata,Appeal to Authority,Mühendis komşum bu ilacın yan etkisi olmadığını söyledi.,Tıbbi konularda mühendislik yetkinliği geçerli değildir.,Geçerli,Appeal to Authority
+16,IFC,Geçerli,Appeal to Authority,Uzman diyetisyenler bu beslenme planının sağlıklı olduğunu onayladı.,Konu ile ilgili akademik uzmanlık referans alınmıştır.,Geçerli,Appeal to Authority
+17,IFC,Geçerli,Appeal to Authority,Celal Şengör jeoloji verilerine göre bu bölgede risk yüksektir.,"Otorite, kendi uzmanlık sahasında görüş bildirmiştir.",Geçerli,Appeal to Authority
+18,IFC,Geçerli,Appeal to Authority,WHO raporuna göre kahve kalp sağlığını olumlu etkileyebilir.,Kurumsal ve metaanaliz temelli bir veri sunulmuştur.,Geçerli,Appeal to Authority
+19,IFC,Geçerli,Appeal to Authority,Fizik yasaları laboratuvar ortamında ampirik olarak kanıtlanmıştır.,Tekrarlanabilir bilimsel metot referans alınmıştır.,Geçerli,False Cause
+20,IFC,Geçerli,Appeal to Authority,Farmakologlar ilacın klinik faz çalışmalarını raporladı.,Metodolojik bir inceleme ve uzman görüşü birleşmiştir.,Geçerli,Hasty Generalization
+21,IFC,Safsata,False Dilemma,Ya nükleer enerjiye geçeriz ya da sanayimiz çöker.,Diğer alternatif enerji yolları yok sayılmıştır.,Safsata,False Dilemma
+22,IFC,Safsata,False Dilemma,Reformu desteklemiyorsan çocukların cahil kalmasını istiyorsun.,Gri alanlar ve farklı itiraz gerekçeleri dışlanmıştır.,Geçerli,False Dilemma
+23,IFC,Safsata,False Dilemma,Evren ya tasarlanmıştır ya da tamamen şans eseridir.,Karmaşık kozmolojik olasılıklar ikiye indirgenmiştir.,Geçerli,False Dilemma
+24,IFC,Safsata,False Dilemma,Eğer bugün dışarı gelmiyorsan arkadaşlığımıza değer vermiyorsun.,Kişisel durumlar ile sadakat arasında yapay bağ kurulmuştur.,Geçerli,False Dilemma
+25,IFC,Safsata,False Dilemma,Şirketimiz ya küçülmeye gider ya da iflas eder.,Finansal yapılandırma gibi seçenekler elenmiştir.,Safsata,False Dilemma
+26,IFC,Geçerli,False Dilemma,"Bir elektrik devresi ya ""açık"" (1) ya da ""kapalı"" (0) konumdadır.",Teknik ve lojik olarak üçüncü bir durum yoktur.,Geçerli,False Dilemma
+27,IFC,Geçerli,False Dilemma,Hamilelik testi sonucu ya pozitiftir ya da negatiftir.,Biyolojik olarak ikili (binary) bir durum söz konusudur.,Geçerli,False Dilemma
+28,IFC,Geçerli,False Dilemma,Bir tam sayı ya tektir ya da çifttir. ,Matematiksel bir aksiyom ve zorunlu bir ikilemdir.,Geçerli,Hasty Generalization
+29,IFC,Geçerli,False Dilemma,Bir sanık mahkeme kararıyla ya suçlu bulunur ya da beraat eder.,Hukuk sistemi nihai bir hüküm vermek zorundadır.,Geçerli,False Dilemma
+30,IFC,Geçerli,False Dilemma,Mantıksal bir önerme klasik mantığa göre ya doğrudur ya yanlıştır.,"""Üçüncü Halin İmkansızlığı"" ilkesine dayanmaktadır.",Geçerli,False Dilemma
+31,IFC,Safsata,Hasty Generalization,"Tatilde tanıştığım iki Fransız kabaydı, tüm millet kabaydı.",Yetersiz ve temsil kabiliyeti olmayan örneklem seçilmiştir.,Geçerli,Hasty Generalization
+32,IFC,Safsata,Hasty Generalization,"Komşum sigara içtiği halde 95 yıl yaşadı, sigara zararsızdır.",Tekil bir istisna (outlier) kural haline getirilmiştir.,Safsata,False Cause
+33,IFC,Safsata,Hasty Generalization,"Bir sığınmacı suça karıştı, o halde hepsi suçludur.",Münferit bir olay tüm gruba mal edilmiştir.,Geçerli,Hasty Generalization
+34,IFC,Safsata,Hasty Generalization,"Dawkins ateist bir bilim insanıdır, tüm evrimciler ateisttir.",Tek bir bireyden yola çıkarak tümel sonuç çıkarılmıştır.,Safsata,Hasty Generalization
+35,IFC,Safsata,Hasty Generalization,Bu restoranda bir kez yedim ve soğuktu; orada yemek yenmez.,Anektodsal tek bir deneyim genele yayılmıştır.,Geçerli,Hasty Generalization
+36,IFC,Geçerli,Hasty Generalization,10 bin turist ile yapılan anket halkın %85'inin yardımsever olduğunu gösterdi.,İstatistiksel olarak yeterli bir örneklem kullanılmıştır.,Geçerli,Hasty Generalization
+37,IFC,Geçerli,Hasty Generalization,50 yıllık klinik çalışmalar sigaranın kanser riskini artırdığını kanıtladı.,Çok sayıda ve uzun süreli veri setine dayanmaktadır.,Geçerli,Appeal to Authority
+38,IFC,Geçerli,Hasty Generalization,Kriminal istatistikler suçun demografik dağılımını raporlamaktadır.,Objektif ve toplu veri analizi yapılmıştır.,Geçerli,Hasty Generalization
+39,IFC,Geçerli,Hasty Generalization,Bilim dünyasında farklı dini inançlara sahip binlerce biyolog vardır.,Grubun çeşitliliğini yansıtan somut bir gözlemdir.,Geçerli,Hasty Generalization
+40,IFC,Geçerli,Hasty Generalization,Bir yıllık müşteri raporları öğünlerin %98'inin standart olduğunu belirtiyor.,Zamana yayılmış ve geniş kapsamlı bir veri setidir.,Geçerli,Hasty Generalization
+41,IFC,Safsata,Slippery Slope,Esrar tıbbi amaçla serbest kalırsa yarın eroin bakkalda satılır.,Kanıtsız ve durdurulamaz bir felaket zinciri uydurulmuştur.,Geçerli,Slippery Slope
+42,IFC,Safsata,Slippery Slope,Kredi kartıyla bir kez alışveriş yaparsan borca batar evsiz kalırsın.,İlk adım doğrudan uç bir sonuca zorlanmıştır.,Safsata,Slippery Slope
+43,IFC,Safsata,Slippery Slope,İşe 5 dakika geç kalırsan yakında kimse gelmez ve şirket batar.,Küçük bir hatadan devasa bir çöküş senaryosu üretilmiştir.,Geçerli,Slippery Slope
+44,IFC,Safsata,Slippery Slope,Çocuk tablete bakarsa kitap okumayı bırakır ve cahil kalır.,Aradaki kontrol mekanizmaları yok sayılmıştır.,Safsata,False Cause
+45,IFC,Safsata,Slippery Slope,Binayı boyatmazsak kolonlar çürür ve ilk depremde yıkılır.,Kozmetik bir durum yapısal felakete zorla bağlanmıştır.,Geçerli,Slippery Slope
+46,IFC,Geçerli,Slippery Slope,"Tıbbi esrarın kontrollü kullanımı, diğer maddelerin statüsünü etkilemez.",Hukuksal ve idari sınırların varlığı vurgulanmıştır.,Geçerli,False Cause
+47,IFC,Geçerli,Slippery Slope,Harcamalar gelirle dengelenmezse faizler finansal riski artırır.,Koşullu ve rasyonel bir ekonomik risk analizi yapılmıştır.,Geçerli,False Cause
+48,IFC,Geçerli,Slippery Slope,Mesai saatlerine uyulmaması ekip içi koordinasyonu bozabilir.,Doğrudan ve gözlemlenebilir bir operasyonel etki sunulmuştur.,Geçerli,False Cause
+49,IFC,Geçerli,Slippery Slope,Kontrolsüz ekran süresi çocuklarda uyku düzenini bozabilir.,Bilimsel olarak doğrulanmış olası bir sağlık riski belirtilmiştir.,Geçerli,False Cause
+50,IFC,Geçerli,Slippery Slope,Yalıtımın ihmal edilmesi korozyona neden olarak bina ömrünü kısaltabilir.,Mühendislik verilerine dayalı bir olasılık analizi yapılmıştır.,Geçerli,False Cause
+51,ESY,Safsata,False Cause,"Toplantı trafiğinin artması, operasyonel odaklanmayı sağlayarak kurumsal başarıyı ve verimlilik artışını tetikler.",,Geçerli,False Cause
+52,ESY,Safsata,False Cause,"Dijital araç kullanımı, öğrencinin dikkat eşiğini yükselterek yabancı dil edinim sürecini doğrudan hızlandırır.",,Geçerli,False Cause
+53,ESY,Safsata,False Cause,"Kütüphanedeki sessizlik, zihinsel çalışma disiplinini aktive ederek akademik performansı ve notları yükseltir.",,Geçerli,False Cause
+54,ESY,Safsata,False Cause,"Düzenli kitap okumak, bireysel vizyonu genişletmek suretiyle kariyerde yükselmeyi ve finansal refahı inşa eder.",,Geçerli,Hasty Generalization
+55,ESY,Safsata,False Cause,"Açık ofis düzeni, şeffaf iletişimi senkronize ederek kolektif yaratıcılığı ve yenilikçi proje üretimini başlatır.",,Geçerli,Hasty Generalization
+56,ESY,Safsata,Appeal to Authority,Nobel ödüllü bir fizikçinin belirttiği üzere düzenli vitamin kullanımı hücresel yaşlanma sürecini tamamen durdurur.,,Safsata,False Cause
+57,ESY,Safsata,Appeal to Authority,"Ünlü bir beyin cerrahının vurguladığı gibi, klasik müzik frekansları çocuklarda matematiksel zekayı kalıcı olarak yükseltir.",,Geçerli,Appeal to Authority
+58,ESY,Safsata,Appeal to Authority,"Kıdemli bir yazılım mimarının ifadesine göre, kod yazım hızı ile bireyin genel mantıksal akıl yürütme kapasitesi eşdeğerdir.",,Geçerli,Hasty Generalization
+59,ESY,Safsata,Appeal to Authority,Başarılı bir ekonomi profesörünün savunduğu üzere erken yaşta yabancı dil öğrenmek finansal başarı şansını doğrudan artırır.,,Geçerli,False Cause
+60,ESY,Safsata,Appeal to Authority,Çok satan bir psikoloji yazarının bildirdiği gibi pozitif düşünce teknikleri biyolojik kanser hücrelerini yok etmektedir.,,Safsata,False Cause
+61,ESY,Safsata,False Dilemma,"Kurumsal verimlilik stratejileri, tam zamanlı ofis disiplinine dayanmadığı sürece kaçınılmaz bir operasyonel çöküşle sonuçlanır.",,Safsata,Slippery Slope
+62,ESY,Safsata,False Dilemma,"Yurt dışındaki Türk çocukları, ana dili odaklı müfredatın dışında kaldıklarında kültürel olarak  asimilasyon sürecine girer.",,Geçerli,Hasty Generalization
+63,ESY,Safsata,False Dilemma,"Bir ülkenin kalkınma ivmesi, ağır sanayi yatırımları üzerine kurulmadığında ekonomik olarak dışa bağımlı kalmaya devam eder.",,Geçerli,False Cause
+64,ESY,Safsata,False Dilemma,"Öğrencilerin sınav başarısı, ezber disipliniyle inşa edilmediğinde telafisi mümkün olmayan bir başarısızlık tablosu doğurur.",,Geçerli,False Cause
+65,ESY,Safsata,False Dilemma,"Dijital dönüşüm süreci, geleneksel yöntemlerin tamamen reddi üzerine kurgulanmadığında çağın gerekliliklerinin dışında kalır.",,Geçerli,False Cause
+66,ESY,Safsata,Hasty Generalization,"Belirlenen pilot okullardaki yüksek başarı seviyesi, yeni müfredatın ülke genelinde eğitim kalitesini artırdığını doğrular.",,Geçerli,Appeal to Authority
+67,ESY,Safsata,Hasty Generalization,"Çevrimiçi derslerdeki öğrenci odaklanma sorunları, uzaktan eğitim modelinin dil edinim süreçlerinde verimsiz olduğunu ortaya koyar.",,Geçerli,Hasty Generalization
+68,ESY,Safsata,Hasty Generalization,"Üst düzey yöneticilerin sosyal bilimler kökenli olması, bu mezunların kurumsal yönetim süreçlerinde daha başarılı olduğunu kanıtlar.",,Geçerli,Hasty Generalization
+69,ESY,Safsata,Hasty Generalization,"Gözlemlenen ailelerdeki dil kaybı vakaları, göçmen toplumlarda ana dilin korunmasının kültürel olarak zor olduğunu gösterir.",,Geçerli,Hasty Generalization
+70,ESY,Safsata,Hasty Generalization,"Yeni nesil yazılımların kullanıcı dostu arayüzleri, teknolojik ilerlemenin insan-bilgisayar etkileşimindeki tüm engelleri kaldırır.",,Geçerli,False Cause
+71,ESY,Safsata,Slippery Slope,"Kurumsal bütçede gidilen kısıntılar, çalışan motivasyonunu bitirerek nitelikli kadro kaybına ve firmanın iflasına  yol açar.",,Geçerli,Slippery Slope
+72,ESY,Safsata,Slippery Slope,"Şehir merkezindeki hız sınırının düşürülmesi, trafik akışını durma noktasına getirerek lojistik sistemin çökmesiyle ve krizle sonuçlanır.",,Geçerli,Slippery Slope
+73,ESY,Safsata,Slippery Slope,Sınavlarda başarısız olan öğrencinin özgüveni zedelenir; bu durum eğitimden soğumasına ve gelecekte işsiz kalmasına varır.,,Geçerli,Slippery Slope
+74,ESY,Safsata,Slippery Slope,"Tarım arazilerinin imara açılması, bölgedeki yeşil alanların betonlaşmasını tetikleyerek yerel ekosistemin yitirilmesine getirir.",,Geçerli,Slippery Slope
+75,ESY,Safsata,Slippery Slope,"Sosyal medyada kontrolsüz vakit geçirilmesi, bireyin sosyal becerilerini körelterek gerçek dünyadan kopuk bir yaşam sürmesine neden olur.",,Geçerli,Hasty Generalization
+76,ESY,Geçerli,False Cause,"Düzenli egzersiz, kalp kaslarını güçlendirip dinlenme nabzını düşürerek kardiyovasküler kapasiteyi geliştirir.",,Geçerli,Hasty Generalization
+77,ESY,Geçerli,False Cause,"Kaliteli uyku, beyindeki prefrontal korteks aktivitesini optimize ederek gün içi odaklanma süresini korur.",,Geçerli,False Cause
+78,ESY,Geçerli,False Cause,"Erken yaşta dile maruz kalmak, nöral ağları yapılandırarak anadili düzeyinde akıcılık ve yetkinlik sağlar.",,Geçerli,False Cause
+79,ESY,Geçerli,False Cause,"Gazın ısınması, moleküler kinetik enerjiyi yükselterek birim yüzeye yapılan basıncı ve iç gerilimi artırır.",,Geçerli,False Cause
+80,ESY,Geçerli,False Cause,"Güneş ışığının soğurulması, kloroplastlarda tepkimeyi başlatarak suyun ve karbonun glikoza dönüşümünü sağlar.",,Geçerli,False Cause
+81,ESY,Geçerli,Appeal to Authority,Dünya Sağlık Örgütü verilerine göre dengeli beslenme ve aktif yaşam tarzı kronik hastalık riskini anlamlı ölçüde azaltır.,,Geçerli,Appeal to Authority
+82,ESY,Geçerli,Appeal to Authority,Klinik psikologların saptadığı üzere erken çocukluktaki güvenli bağlanma bireyin yetişkinlikteki sosyal uyumunu destekler.,,Geçerli,Hasty Generalization
+83,ESY,Geçerli,Appeal to Authority,"Bilgisayar bilimcilerin üzerinde uzlaştığı gibi, algoritma karmaşıklığı yazılımın çalışma süresini ve kaynak tüketimini belirler.",,Geçerli,False Cause
+84,ESY,Geçerli,Appeal to Authority,Uygulamalı dilbilimcilerin verilerine göre kritik dönemde dil edinimine başlamak telaffuz ve dilbilgisi yetkinliğini güçlendirir.,,Geçerli,Appeal to Authority
+85,ESY,Geçerli,Appeal to Authority,Onkoloji uzmanlarının verilerine göre erken teşhis ve kemoterapi uygulamaları kanser hastalarının hayatta kalma oranını artırır.,,Geçerli,Appeal to Authority
+86,ESY,Geçerli,False Dilemma,"Kurumsal verimlilik düzeyi; teknolojik altyapı yeterliliği, çalışan motivasyonu ve iş süreçlerinin doğru yönetilmesiyle şekillenir.",,Geçerli,False Cause
+87,ESY,Geçerli,False Dilemma,"Dil edinimi başarısı; maruz kalınan girdi kalitesi, sosyal çevre desteği ve pedagojik materyallerin niteliğiyle gelişim gösterir.",,Geçerli,False Cause
+88,ESY,Geçerli,False Dilemma,"Ülkelerin kalkınma modelleri; teknolojik inovasyon kapasitesi, beşerî sermaye yatırımı ve tarımsal sürdürülebilirliğin bir sentezidir.",,Geçerli,Hasty Generalization
+89,ESY,Geçerli,False Dilemma,"Akademik başarı seviyesi; öğrencinin bilişsel stratejileri, öğretmenin profesyonel yetkinliği ve aile desteğiyle koordineli yükselir.",,Geçerli,False Cause
+90,ESY,Geçerli,False Dilemma,"Modern dönüşüm stratejileri, köklü kurumsal tecrübe ile yenilikçi dijital araçların hibrit modellerde birleşmesiyle süreklilik kazanır.",,Geçerli,Hasty Generalization
+91,ESY,Geçerli,Hasty Generalization,"Eğitim kalitesindeki artış; öğretmen gelişimi, müfredat güncelliği ve okulların sosyo-ekonomik imkanlarıyla  ilişkilidir.",,Geçerli,Hasty Generalization
+92,ESY,Geçerli,Hasty Generalization,"Dil edinim hızı; maruz kalınan girdi yoğunluğu, öğrenci stratejileri ve pedagojik materyal niteliğine göre değişkenlik gösterir.",,Geçerli,Hasty Generalization
+93,ESY,Geçerli,Hasty Generalization,"Kurumsal yönetim başarısı; liderlik becerileri, sektörel tecrübe ve kriz yönetimi kapasitesi gibi çok boyutlu yetkinliklerin ürünüdür.",,Geçerli,Hasty Generalization
+94,ESY,Geçerli,Hasty Generalization,"Göçmenlerde ana dilin korunması; toplumsal dil politikaları, aile içi kullanım ve kültürel aidiyet bilinci gibi faktörlere bağlıdır.",,Geçerli,False Cause
+95,ESY,Geçerli,Hasty Generalization,"Kullanıcı deneyimi başarısı; arayüz tasarımı, erişilebilirlik standartları ve kullanıcının teknolojik okuryazarlık düzeyi arasındaki dengedir.",,Geçerli,Hasty Generalization
+96,ESY,Geçerli,Slippery Slope,"Kurumsal bütçedeki yetersiz Ar-Ge payı, ürün inovasyon kapasitesini düşürerek uzun vadede pazar payının kaybedilmesine neden olur.",,Geçerli,False Cause
+97,ESY,Geçerli,Slippery Slope,"Kentsel bölgelerde kontrolsüz artan araç sayısı ve yetersiz toplu taşıma ağı, hava kirliliği seviyelerini yükselterek hastalıkları artırır.",,Geçerli,Hasty Generalization
+98,ESY,Geçerli,Slippery Slope,"Öğrenme sürecinde geri bildirim mekanizmalarının eksikliği, hataların yerleşmesine yol açarak ileri düzey beceri kazanımını zorlaştırır.",,Geçerli,False Cause
+99,ESY,Geçerli,Slippery Slope,"Tarım topraklarında aşırı kimyasal gübre kullanımı, toprak yapısındaki yararlı mikroorganizmaları öldürerek verimliliği kalıcı olarak düşürür.",,Geçerli,False Cause
+100,ESY,Geçerli,Slippery Slope,"Dijital ekranlara uzun süre ve yakından bakmak, göz kaslarında aşırı gerilmeye neden olarak miyopi riskini ve göz yorgunluğunu artırır.",,Geçerli,False Cause
+101,ZGES,Safsata,False Cause,Konuları iyi kavrayan öğrenciler genelde tekrar yapıyor. O halde tekrar yapılmazsa öğrenme gerçekleşmez.,,Geçerli,False Cause
+102,ZGES,Safsata,False Cause,"Hıdırellez'de cüzdanıma para koydum, param arttı. O halde Hızır zenginlik getiriyor.",,Geçerli,False Cause
+103,ZGES,Safsata,False Cause,Kardeşim yaramazlık yaparken gök gürledi. O halde yaramazlık yaparsak gökyüzü bizi uyarır.,,Geçerli,False Cause
+104,ZGES,Safsata,False Cause,Kaza yapan erkek şoför oranı kadın şoför oranından daha yüksek. O halde erkekler arabayı kadınlardan daha kötü kullanıyor.,,Geçerli,Hasty Generalization
+105,ZGES,Safsata,False Cause,Her gün işe en erken gelen ve işten en geç çıkan Alidir. O halde Ali en verimli çalışandır. ,,Geçerli,Hasty Generalization
+106,ZGES,Safsata,Appeal to Authority,Bu takviye ve vitaminleri alıyorum çünkü ünlü oyuncu reklam filminde vitamini ve takviyeleri önerdi.,,Safsata,Appeal to Authority
+107,ZGES,Safsata,Appeal to Authority,Fransız ihtilali felakettir çünkü ünlü jeolog Celal Şengör böyle söylüyor.,,Geçerli,Appeal to Authority
+108,ZGES,Safsata,Appeal to Authority,Eskiden padişahlar bile sefere çıkmadan önce müneccimlere danışıyormuş. O halde astroloji güvenilirdir.,,Geçerli,Appeal to Authority
+109,ZGES,Safsata,Appeal to Authority,"Akupunkturu ilk uygulayan ülke, dünya devi Çin olduğuna göre akupunktur işlevseldir.",,Geçerli,Appeal to Authority
+110,ZGES,Safsata,Appeal to Authority,"Eskiden büyüklerimiz böyle yaparmış, demek ki en doğru yol bu.",,Geçerli,Appeal to Authority
+111,ZGES,Safsata,False Dilemma,Sokaklarda başıboş köpeklerin olmasını can güvenliğine yönelik bir tehdit olarak görüyorsun. O halde sen bir hayvan düşmanısın.,,Geçerli,Hasty Generalization
+112,ZGES,Safsata,False Dilemma,Matematik dersinde başarılı değilsin. O halde sen zeki biri değilsindir.,,Safsata,Hasty Generalization
+113,ZGES,Safsata,False Dilemma,Kadına yönelik şiddeti önlemek istiyorsak ya kadınlar davranışlarına dikkat etmeli ya da bu sorun hiç çözülemez.,,Safsata,False Dilemma
+114,ZGES,Safsata,False Dilemma,Ali kapitalizmi eleştiriyor. O halde Ali komünisttir.,,Geçerli,False Dilemma
+115,ZGES,Safsata,False Dilemma,Bu kitabı okumamışsın. O halde sen edebiyatı sevmiyorsun.,,Safsata,False Dilemma
+116,ZGES,Safsata,Hasty Generalization,Otobüste gençler yaşlılara yer vermedi. Gençlerin hepsi saygısız.,,Geçerli,Hasty Generalization
+117,ZGES,Safsata,Hasty Generalization,Ödevinde yapay zekadan faydalanmış. Demek ki tembel ve kopyacı. ,,Safsata,Hasty Generalization
+118,ZGES,Safsata,Hasty Generalization,"Bu okuldan mezun bir arkadaşım var, işsiz kaldı. Demek ki okul kötü.",,Safsata,Hasty Generalization
+119,ZGES,Safsata,Hasty Generalization,İçerde hiç müşteri yok. Demek ki kötü bir mağaza.,,Geçerli,Hasty Generalization
+120,ZGES,Safsata,Hasty Generalization,Marka ürünler muadillerinden pahalı. Demek ki kaliteli.,,Geçerli,False Cause
+121,ZGES,Safsata,Slippery Slope,Kadın-erkek eşitliği olursa roller aynılaşır ve bu durum aile yapısını ortadan kaldırarak toplumun düzenini bozar.,,Safsata,False Cause
+122,ZGES,Safsata,Slippery Slope,Araştırmalarda yapay zekayı serbest kılarsak insanlar düşünmeyi bırakır ve toplum çöker.,,Geçerli,Slippery Slope
+123,ZGES,Safsata,Slippery Slope,Okullarda sivil kıyafet yaygınlaşırsa başarı düşer.,,Safsata,False Cause
+124,ZGES,Safsata,Slippery Slope,İfade özgürlüğünü geliştirdikçe insanlar birbirine hakaret eder ve düzen bozulur.,,Geçerli,False Cause
+125,ZGES,Safsata,Slippery Slope,"Çocuğu kucağa alıştırırsan senden hiç ayrılmaz, başka insanlara uyum sağlayamaz ve sonunda dışlanır.",,Geçerli,Hasty Generalization
+126,ZGES,Geçerli,False Cause,"Düzenli tekrar yapan öğrencilerin çoğu konuları daha iyi kavramaktadır. O halde düzenli tekrar yapmak, öğrenmeyi destekleyen bir yöntem olarak değerlendirilebilir.",,Geçerli,Hasty Generalization
+127,ZGES,Geçerli,False Cause,"Hıdırellez’de cüzdana para koymak, bireyin maddi hedeflerine dikkatini yöneltmesine yardımcı olan sembolik bir davranıştır. O halde Hıdırellez ritüelleri bireyi daha planlı harcama ve birikim yapma konusunda teşvik edebilir.",,Geçerli,False Cause
+128,ZGES,Geçerli,False Cause,Gök gürledi. O halde birazdan yağmur yağabilir.,,Geçerli,False Cause
+129,ZGES,Geçerli,False Cause,Kaza yapan erkek şoför oranı kadın şoför oranından daha yüksek olabilir ancak kaza yapan erkek şoför sayısının trafiğe çıkan erkek şoför sayısı içindeki oranı kaza yapan kadın şoförlerin trafiğe çıkan kadın şoförlerle kendi içinde oranına kıyasla daha az olduğu görülmektedir. ,,Geçerli,Hasty Generalization
+130,ZGES,Geçerli,False Cause,Her gün işe en erken gelen ve işten en geç çıkan Alidir. O halde Ali iş yerinde en çok vakit geçiren kişidir.,,Geçerli,Hasty Generalization
+131,ZGES,Geçerli,Appeal to Authority,Bu takviye ve vitaminleri alıyorum; çünkü doktorum kan tahlillerime bakarak bunları önermişti.,,Geçerli,Appeal to Authority
+132,ZGES,Geçerli,Appeal to Authority,"Fransız İhtilali, kısa vadede büyük can kayıplarına ve siyasi kaosa neden olmuştur. O halde Fransız ihtilali bazı kişilerce dönemin felaketi olarak görülebilir.",,Geçerli,False Cause
+133,ZGES,Geçerli,Appeal to Authority,Padişahlar sefere çıkmadan önce müneccimlere başvururlardı. O halde sefere çıkmadan önce padişahların içsel motivasyona ihtiyaç duyduklarını düşünebiliriz.,,Geçerli,False Cause
+134,ZGES,Geçerli,Appeal to Authority,Akupunktur yağ metabolizmasını ve enerji dengesini düzenler. O halde akupunktur zayıflamak isteyenler için uygun bir yöntem olabilir.,,Geçerli,False Cause
+135,ZGES,Geçerli,Appeal to Authority,Geleneksel uygulamalar deneyime dayanmaktadır. O halde güncel verilerle doğrulukları desteklendiği takdirde yol gösterici olabilirler.,,Geçerli,Appeal to Authority
+136,ZGES,Geçerli,False Dilemma,Sokaklarda başıboş köpeklerin olmasını can güvenliğine yönelik bir tehdit olarak görüyorsun. Bu yüzden yetkililerin önlem alması gerektiğini savunuyorsun.,,Geçerli,Hasty Generalization
+137,ZGES,Geçerli,False Dilemma,Matematik dersinde başarılı değilsin. O halde matematiksel zekan diğer zeka türlerine göre nispeten daha geri planda olabilir.,,Geçerli,Hasty Generalization
+138,ZGES,Geçerli,False Dilemma,"Kadına yönelik şiddet sosyal ve kültürel pek çok sebepten dolayı hızla artmaktadır. O halde kadına yönelik şiddeti önlemek istiyorsak, sorunu yalnızca bireysel davranışlarla açıklamak yerine hukuk, eğitim, toplumsal normlar ve fail sorumluluğunu birlikte ele alan kapsamlı politikalar geliştirmeliyiz.",,Geçerli,False Cause
+139,ZGES,Geçerli,False Dilemma,Ali kapitalizmi eleştiriyor. O halde farklı bir ekonomik modeli savunuyor olabilir ya da kapitalizm sistemin bazı yönlerini sorunlu buluyordur.,,Geçerli,Hasty Generalization
+140,ZGES,Geçerli,False Dilemma,Bu kitabı okumamışsın. O halde okuma tercihlerin veya ilgi alanların bu yönde olmayabilir.,,Geçerli,False Dilemma
+141,ZGES,Geçerli,Hasty Generalization,"Beş farklı hatta yaptığım elli yolculukta, yaşlılara yer vermeyen gençlerin oranı belirgin biçimde yüksekti. O halde, karşılaştığım örneklemdeki gençlerin yaşlılara yer verme davranışının düşük olduğu söylenebilir.",,Geçerli,Hasty Generalization
+142,ZGES,Geçerli,Hasty Generalization,"On farklı ödevin sekizinde, öğrencinin yapay zekadan doğrudan kopyalama yaptığı ve kaynak göstermediği tespit edilmiştir. O halde, öğrencinin akademik dürüstlük kurallarına aykırı davrandığı söylenebilir.",,Geçerli,False Cause
+143,ZGES,Geçerli,Hasty Generalization,"Mezun izleme verilerine göre bu okuldan mezun olanların %30’u mezuniyetten sonra en erken iki yıl içinde iş bulabilmişlerdir. O halde, okulun iş piyasasıyla uyumu düşük olarak değerlendirilebilir.",,Geçerli,Hasty Generalization
+144,ZGES,Geçerli,Hasty Generalization,Farklı gün ve saatlerde yapılan gözlemler sonucunda mağazanın genellikle boş olduğu gözlemlenmiştir. O halde mağazanın müşteri çekme konusunda iyi olmadığı söylenebilir.,,Geçerli,Hasty Generalization
+145,ZGES,Geçerli,Hasty Generalization,Marka ürünler muadillerinden daha pahalı. O halde ürünün görünürlüği arttıkça fiyatı artıyor olabilir.,,Geçerli,False Cause
+146,ZGES,Geçerli,Slippery Slope,"Kadın-erkek eşitliğinin uygulanma biçimine bağlı olarak, bazı toplumsal rollerin yeniden tanımlanması söz konusu olabilir. O halde süreç iyi yönetilmediği takdirde aile yapısında uyum sorunları yaşanma riski doğabilir.",,Geçerli,Slippery Slope
+147,ZGES,Geçerli,Slippery Slope,Yapay zekanın serbest ve sınırsız kullanımı insanların kendi düşünme süreçlerini geri plana atarak analiz yeterliliğini olumsuz yönde etkileyebilir. O halde toplumun en küçük parçası bireyleri etkileyen bu durum zamanla yayılarak toplumun etkilenmesine sebep olabilir.,,Geçerli,Slippery Slope
+148,ZGES,Geçerli,Slippery Slope,"Okullarda sivil kıyafet uygulaması, okulun genel eğitim ortamında istendik/istenmedik etkilere sebep olabilir. O halde sivil kıyafet uygulaması öğrenci başarısını etkileyebilir. ",,Geçerli,False Cause
+149,ZGES,Geçerli,Slippery Slope,İfade özgürlüğünün genişletilmesinin toplumsal düzene farklı etkileri olabilir. ,,Geçerli,Hasty Generalization
+150,ZGES,Geçerli,Slippery Slope,"Çocuğun bakımında fiziksel yakınlığın etkileri, çocuğun yaşı, bağlanma biçimi ve sosyal çevresi gibi faktörlere bağlıdır. O halde fiziksel yakınlık farklı gelişimsel sonuçlar doğurabilir.",,Geçerli,Hasty Generalization

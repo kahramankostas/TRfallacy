@@ -1,0 +1,1 @@
+mistralai/ministral-3-14b-reasoning
