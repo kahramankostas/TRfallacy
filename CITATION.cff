@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "Çancı"
+    given-names: "Inanç Feridun"
+  - family-names: "Shahbazov"
+    given-names: "Gizem"
+  - family-names: "Yılmaz"
+    given-names: "Edibe"
+  - family-names: "Kostas"
+    given-names: "Kahraman"
+title: "Measuring Logical Reasoning in Turkish Offline Language Models via Fallacy Detection"
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: "Çancı"
+      given-names: "Inanç Feridun"
+    - family-names: "Shahbazov"
+      given-names: "Gizem"
+    - family-names: "Yılmaz"
+      given-names: "Edibe"
+    - family-names: "Kostas"
+      given-names: "Kahraman"
+  title: "Measuring Logical Reasoning in Turkish Offline Language Models via Fallacy Detection"
+  collection-title: "6th International Artificial Intelligence and Data Science Congress (ICADA 2026): Proceedings Book, Full Papers"
+  conference:
+    name: "6th International Artificial Intelligence and Data Science Congress (ICADA 2026)"
+    location: "Nevşehir, Türkiye"
+  editors:
+    - family-names: "Alaybeyoğlu"
+      given-names: "Ayşegül"
+    - family-names: "Kaya"
+      given-names: "Ebubekir"
+    - family-names: "Sarp"
+      given-names: "Ümit"
+  year: 2026
+  month: 4
+  publisher:
+    name: "Duvar Yayınları"
+  isbn: "978-625-8756-91-3"
+  doi: "10.13140/RG.2.2.35904.60162"
+  url: "https://doi.org/10.13140/RG.2.2.35904.60162"

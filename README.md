@@ -1,6 +1,10 @@
 # Measuring Logical Reasoning in Turkish Offline Language Models via Fallacy Detection
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![DOI](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.35904.60162-blue.svg)](https://doi.org/10.13140/RG.2.2.35904.60162)
+
 This repository contains the dataset, scripts, and results for evaluating the logical reasoning capabilities of offline Turkish Language Models by detecting fallacies.
+
 
 ## Folder Structure
 
@@ -63,3 +67,35 @@ python src/safsata_analiz_informed.py --input data/ai-safsata.xlsx --output data
 
 **Evaluating Metrics:**
 To generate the metrics and graphs, use the `src/evaluation.ipynb` notebook. Make sure to specify the correct input `.csv` and output `.pdf` paths according to whether you are analyzing the "blind" or "informed" results.
+
+## Citation
+
+If you use this dataset, codebase, or findings in your research, please cite our paper:
+
+**Text Citation:**
+> Çancı, İ. F., Shahbazov, G., Yılmaz, E., & Kostas, K. (2026). Measuring Logical Reasoning in Turkish Offline Language Models via Fallacy Detection. In A. Alaybeyoğlu, E. Kaya, & Ü. Sarp (Eds.), *6th International Artificial Intelligence and Data Science Congress (ICADA 2026): Proceedings Book, Full Papers*. Duvar Yayınları. https://doi.org/10.13140/RG.2.2.35904.60162
+
+**BibTeX:**
+```bibtex
+@inproceedings{canci2026measuring,
+  author    = {Çancı, Inanç Feridun and Shahbazov, Gizem and Yılmaz, Edibe and Kostas, Kahraman},
+  title     = {Measuring Logical Reasoning in Turkish Offline Language Models via Fallacy Detection},
+  booktitle = {6th International Artificial Intelligence and Data Science Congress (ICADA 2026): Proceedings Book, Full Papers},
+  editor    = {Alaybeyoğlu, Ayşegül and Kaya, Ebubekir and Sarp, Ümit},
+  year      = {2026},
+  month     = apr,
+  address   = {Nevşehir, Türkiye},
+  publisher = {Duvar Yayınları},
+  isbn      = {978-625-8756-91-3},
+  doi       = {10.13140/RG.2.2.35904.60162},
+  url       = {https://doi.org/10.13140/RG.2.2.35904.60162},
+  note      = {Licensed under CC BY 4.0}
+}
+```
+
+## License
+
+- **Source Code:** Distributed under the [MIT License](LICENSE).
+- **Data & Research Paper:** Licensed under Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
+
+
